@@ -1,2 +1,1 @@
-# portfolio
-Show my resume on GitHub page.
+[View my Resume (PDF)](./resume.pdf)
